@@ -1,0 +1,8 @@
+venv/
+*.pyc
+*.tar.gz
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+.idea
